@@ -1,0 +1,18 @@
+{
+  "name": "git-update-system",
+  "version": "1.0.0",
+  "description": "projeleri gi uzerınden guncellemek icin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taner SANCAR",
+  "license": "ISC",
+  "dependencies": {
+    "@datadog/browser-logs": "^3.4.0",
+    "datadog": "^1.0.1",
+    "express": "^4.17.1",
+    "raygun": "^0.13.1",
+    "simple-git": "^2.45.1"
+  }
+}
